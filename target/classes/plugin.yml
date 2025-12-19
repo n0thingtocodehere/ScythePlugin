@@ -1,0 +1,7 @@
+name: ScythePlugin
+version: '1.0-SNAPSHOT'
+main: ntch.scythePlugin.ScythePlugin
+api-version: '1.21'
+commands:
+  givescythe:
+    usage: /<command>
